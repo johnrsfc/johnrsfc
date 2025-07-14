@@ -1,27 +1,18 @@
-### Olá! Eu sou a Jonathan Costa, mas no mundo dev, me identifico como Johnrsfc! 👋
+# 💫 About Me:
+Olá! Sou Jonathan Silva — ou, como muitos me conhecem no mundo dev, John. 👨‍💻<br><br>Com mais de 5 anos de experiência em TI, minha trajetória passou por infraestrutura crítica, cloud computing (AWS) e suporte nível 3, até encontrar minha paixão no desenvolvimento full stack. Hoje, atuo como freelancer em projetos web para diferentes empresas, unindo técnica, performance e visão de produto.<br><br>💡 Minha base em SRE me permite desenvolver aplicações resilientes e escaláveis, utilizando tecnologias como:<br>PHP, Laravel, Node.js, React, React Native, TypeScript, Firebase, AWS e MySQL.<br><br>Sou movido por desafios e por transformar problemas complexos em soluções simples e eficazes.
 
-- 🔭 Atuei 4 anos como Desenvolvedor Web e Suporte Nível 3
-- 🚀 Atualmente estou sendo Freelancer para 3 empresas em desenvolvimento Web e Suporte Técnico
-- 🌱 Estou estudando desenvolvimento web full-stack na Yeah
-- ⚡ Curiosidade: sou apaixonada por motocicletas e tecnologia
 
-#### Tecnologias com as quais eu trabalho:
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A.svg?style=flat&logo=laravel&logoColor=FF2D20)
-![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=docker&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=CF649A)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnrsfc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-dev-fullstack) 
 
-##
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=johnrsfc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=johnrsfc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnrsfc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/johnrsfc/"><img src="https://img.shields.io/badge/-Johnrsfc%20%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:johnrsfc.ti@gmail.com"><img src="https://img.shields.io/badge/johnrsfc.ti@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/johnrsfc/"><img src="https://img.shields.io/badge/-@johnrsfc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.twitter.com/johnrsfc/"><img src="https://img.shields.io/badge/-@johnrsfc-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=johnrsfc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
