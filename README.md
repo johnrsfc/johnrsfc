@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor Full Stack** com mais de **6 anos de experiência em Tecnologia da Informação**, construindo uma trajetória que passou por **infraestrutura, servidores, redes, suporte corporativo e cloud computing** até chegar ao desenvolvimento de software.
 
-Atualmente atuo no desenvolvimento de **aplicações web, mobile e sistemas corporativos**, participando de todo o ciclo da aplicação — desde o levantamento de requisitos e arquitetura até desenvolvimento, integrações, deploy e sustentação em produção.
+Atualmente atuo no desenvolvimento de **aplicações web, mobile e sistemas corporativos**, participando de todo o ciclo da aplicação desde o levantamento de requisitos e arquitetura até desenvolvimento, integrações, deploy e sustentação em produção.
 
 Minha principal stack envolve **PHP, Laravel, Node.js, React.js, React Native, TypeScript e JavaScript**, trabalhando também com **PostgreSQL, MySQL, Redis, APIs REST, Docker, Linux e AWS**.
 
