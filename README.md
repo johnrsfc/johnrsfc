@@ -67,15 +67,6 @@ Além de configuração de **servidores Linux, Docker, deploy e sustentação de
 
 `Full Stack Development` • `ERP` • `REST APIs` • `Laravel` • `React` • `React Native` • `TypeScript` • `PostgreSQL` • `Redis` • `Docker` • `AWS`
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnrsfc&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=johnrsfc&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnrsfc&theme=dark&hide_border=true&layout=compact)
 
 ---
 
